@@ -261,7 +261,7 @@ def login():
 			print"\n\x1b[1;97mThere is no internet connection"
 			keluar()
 		br._factory.is_html = True
-		br.select_form(nr=1)
+		br.select_form(nr=0)
 		br.form['email'] = id
 		br.form['pass'] = pwd
 		br.submit()
