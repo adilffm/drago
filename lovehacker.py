@@ -618,8 +618,8 @@ def pilih_super():
 	print "  \033[1;93m«---•◈•---Developed By love-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;96m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 lovehacker.py)↩\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;93m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
-	print """
-              _______  _        ______  
+	print ""
+	_______  _        ______  
              (  ____ \( (    /|(  __  \ 
              | (    \/|  \  ( || (  \  )
              | (__    |   \ | || |   ) |
